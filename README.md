@@ -13,7 +13,7 @@ Al igual que HTML, CSS es un estándar de W3C. Fue propuesto por Håkon Wium Lie
 Las propiedades de estilo se especifican mediante construcciones de la forma:
 
 <figure>
-  <img src="http://en-support.files.wordpress.com/2011/09/css-selectors-lrg.png" alt="Selector CSS">
+  <img src="img/sintaxiscss.png" alt="Selector CSS">
   <figcaption>
     <small>Sintaxis de CSS. Fuente: wordpress.com</small>
   </figcaption>
