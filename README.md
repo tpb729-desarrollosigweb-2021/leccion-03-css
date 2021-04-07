@@ -7,6 +7,7 @@ Al igual que HTML, CSS es un estándar de W3C. Fue propuesto por Håkon Wium Lie
 
 # Ejemplos de aplicación de CSS
 - [CSS Zen Garden: The Beauty of CSS Design](http://www.csszengarden.com/)
+- [En CodePen: Intro Front-End Holy Trinity](https://codepen.io/mongeauc/pen/gPVoXd)
 
 # Conceptos básicos
 ## Reglas CSS
