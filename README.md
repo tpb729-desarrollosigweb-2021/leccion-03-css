@@ -30,4 +30,10 @@ Entre las llaves (```{}```) pueden especificarse varias declaraciones, las cuale
 
 Los siguientes son ejemplos de reglas CSS:
 
+```css
+p {
+    color:red;
+    font-size:200%;
+}
+```
 
