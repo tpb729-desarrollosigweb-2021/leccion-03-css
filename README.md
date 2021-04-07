@@ -5,9 +5,8 @@ CSS permite manejar la presentación separadamente del contenido, lo que brinda 
 
 Al igual que HTML, CSS es un estándar de W3C. Fue propuesto por Håkon Wium Lie, quien trabajaba en CERN con Tim Berners-Lee, en 1994.
 
-# Ejemplos de uso de CSS
+# Ejemplos de aplicación de CSS
 - [CSS Zen Garden: The Beauty of CSS Design](http://www.csszengarden.com/)
-- [En CodePen: Intro Front-End Holy Trinity](https://codepen.io/mongeauc/pen/gPVoXd)
 
 # Conceptos básicos
 ## Reglas CSS
@@ -28,3 +27,7 @@ Los componentes de una regla CSS son:
 4. **La declaración**: es la combinación de propiedad y valor de la propiedad.
 
 Entre las llaves (```{}```) pueden especificarse varias declaraciones, las cuales deben separarse con punto y coma (```;```). Aún cuando haya solo una declaración, se recomienda usar el punto y coma, por legibilidad.
+
+Los siguientes son ejemplos de reglas CSS:
+
+
