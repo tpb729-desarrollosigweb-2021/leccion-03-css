@@ -9,12 +9,13 @@ Al igual que HTML, CSS es un estándar de W3C. Fue propuesto por Håkon Wium Lie
 - [CSS Zen Garden: The Beauty of CSS Design](http://www.csszengarden.com/)
 - [En CodePen: Intro Front-End Holy Trinity](https://codepen.io/mongeauc/pen/gPVoXd)
 
-# Sintaxis de CSS
-Las propiedades de estilo se especifican mediante construcciones de la forma que se muestra en la figura 1, las cuales se denominan **Selectores CSS**:
+# Conceptos básicos
+## Reglas CSS
+Las hojas de estilo se basan en reglas CSS, como la que muestra en la figura 1.
 
 <figure>
-  <img src="img/sintaxiscss.png" alt="Selector CSS">
+  <img src="img/reglacss.png" alt="Selector CSS">
   <figcaption>
-    <strong>Figura 1.</strong> Sintaxis de selectores CSS. Fuente: <a href="http://en-support.files.wordpress.com/2011/09/css-selectors-lrg.png">WordPress</a>.
+    <strong>Figura 1.</strong> Componentes de una regla CSS. Fuente: <a href="https://developer.mozilla.org/es/docs/Learn/Getting_started_with_the_web/CSS_basics">MDN Web Docs</a>.
   </figcaption>
 </figure>
