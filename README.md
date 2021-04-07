@@ -48,4 +48,8 @@ h1,h2 {
     background-color:yellow;
 }
 ```
+Pueden encontrarse listas y ejemplos de uso de las propiedades CSS en:
+- [CSS Reference - W3 Schools](https://www.w3schools.com/cssref/)
+- [CSS Reference - MDN](https://developer.mozilla.org/en-US/docs/Web/CSS/Reference)
+
 
