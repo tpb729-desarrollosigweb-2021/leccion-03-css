@@ -11,7 +11,7 @@ Al igual que HTML, CSS es un estándar de W3C. Fue propuesto por Håkon Wium Lie
 
 # Conceptos básicos
 ## Reglas CSS
-Las hojas de estilo se basan en reglas CSS, como la que muestra en la figura 1.
+Las hojas de estilo se basan en **reglas CSS**, como la que se muestra en la figura 1.
 
 <figure>
   <img src="img/reglacss.png" alt="Selector CSS">
@@ -19,3 +19,7 @@ Las hojas de estilo se basan en reglas CSS, como la que muestra en la figura 1.
     <strong>Figura 1.</strong> Componentes de una regla CSS. Fuente: <a href="https://developer.mozilla.org/es/docs/Learn/Getting_started_with_the_web/CSS_basics">MDN Web Docs</a>.
   </figcaption>
 </figure>
+
+Los componentes de una regla CSS son:
+
+1. **El selector**: es el elemento, o elementos HTML, para los que aplica la regla.
