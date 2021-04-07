@@ -5,8 +5,16 @@ CSS permite manejar la presentación separadamente del contenido, lo que brinda 
 
 Al igual que HTML, CSS es un estándar de W3C. Fue propuesto por Håkon Wium Lie, quien trabajaba en CERN con Tim Berners-Lee, en 1994.
 
-CSS especifica el estilo de un documento mediante propiedades de sus diferentes elementos. Seguidamente, se presenta un [ejemplo de documento CSS](https://github.com/tpb729-desarrollosigweb-2021/leccion-01-sigweb/blob/main/css/estilos.css) que define varias propiedades de los encabezados y del cuerpo principal del documento HTML mostrado anteriormente.
-
 # Ejemplos de uso de CSS
 - [CSS Zen Garden: The Beauty of CSS Design](http://www.csszengarden.com/)
 - [En CodePen: Intro Front-End Holy Trinity](https://codepen.io/mongeauc/pen/gPVoXd)
+
+# Sintaxis de CSS
+Las propiedades de estilo se especifican mediante construcciones de la forma:
+
+<figure>
+  <img src="http://en-support.files.wordpress.com/2011/09/css-selectors-lrg.png" alt="Selector CSS">
+  <figcaption>
+    <small>Sintaxis de CSS. Fuente: wordpress.com</small>
+  </figcaption>
+</figure>
