@@ -115,5 +115,7 @@ body {
 # Ejercicios
 1. Con base en la [tarea 01](https://tpb729-desarrollosigweb-2021.github.io/tarea-01-html/), construya un sitio web, con varias páginas, sobre los felinos de Costa Rica.  
 a. Cree un archivo llamado *index.html* con información general sobre los felinos de Costa Rica (puede usar el de la tarea).  
-b. Cree un archivo llamado *panhera-onca.html* con información sobre esa especie. Incluye, al menos, el título, un encabezado, un párrafo y una imagen (sugerencia: use contenido de Wikipedia).  
-c.  
+b. Cree un archivo llamado *panhera-onca.html* con información sobre esa especie. Incluya, al menos, el título, un encabezado, un párrafo y una imagen (sugerencia: use contenido de Wikipedia).  
+c. Cree un archivo llamado *css/estilos.css* que, para ambos archivos, especifique mediante CSS, por lo menos: el tipo y tamaño de letra, el color de fondo y el color de los encabezados.  
+d. Cree un archivo llamado *puma-concolor.html* con información sobre esa especie. Incluya, al menos, el título, un encabezado, un párrafo y una imagen (sugerencia: use contenido de Wikipedia). Aplique aquí también los estilos de *css/estilos.css*.  
+e. En cada página, cree una barra de navegación que permita navegar a las otras dos páginas. Para esto utilice el elemento [nav](https://developer.mozilla.org/es/docs/Web/HTML/Element/nav).  
