@@ -75,11 +75,38 @@ El elemento [style](https://developer.mozilla.org/es/docs/Web/HTML/Element/style
 
 ```html
 <head>
-    <title>Ejemplo de CSS especificado en la sección head</title>
+    <title>Ejemplo de reglas CSS especificadas en el elemento <style></title>
     <style>
         h1 {
             color:blue;
         }
     </style>
 </head>
+```
+
+#### En archivos CSS (.css)
+En la sección ```head``` del archivo HTML que va a usar los estilos, debe incluirse un elemento de tipo [link](https://developer.mozilla.org/es/docs/Web/HTML/Element/link), como se ejemplifica seguidamente:
+
+```html
+<link rel="stylesheet" href="estilos.css">
+```
+
+Ejemplo de contenido de ```estilos.css```:
+
+```css
+p {
+    color:red;
+    font-size:200%;
+}
+
+h1 {
+    background-color:yellow;
+}  
+
+body {
+    background-color:black;
+    color:white;
+    margin:0 4px 0 0;
+    border:12px solid;
+}
 ```
