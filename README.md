@@ -27,4 +27,4 @@ Los componentes de una regla CSS son:
 3. **El valor de la propiedad:**: es el valor que se le asigna a la propiedad (ej. rojo, azul, etc. para el color).
 4. **La declaración**: es la combinación de propiedad y valor de la propiedad.
 
-Entre las llaves (```{}```) pueden especificarse varias declaraciones, las cuales deben separarse con punto y coma (```;```). Aún cuando haya solo una regla, se recomienda usar el punto y coma, por legibilidad.
+Entre las llaves (```{}```) pueden especificarse varias declaraciones, las cuales deben separarse con punto y coma (```;```). Aún cuando haya solo una declaración, se recomienda usar el punto y coma, por legibilidad.
