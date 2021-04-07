@@ -14,7 +14,7 @@ Al igual que HTML, CSS es un estándar de W3C. Fue propuesto por Håkon Wium Lie
 Las hojas de estilo se basan en **reglas CSS**, como la que se muestra en la figura 1.
 
 <figure>
-  <img src="img/reglacss.png" alt="Selector CSS">
+  <img src="img/reglacss.png" alt="Selector CSS" />
   <figcaption>
     <strong>Figura 1.</strong> Componentes de una regla CSS. Fuente: <a href="https://developer.mozilla.org/es/docs/Learn/Getting_started_with_the_web/CSS_basics">MDN Web Docs</a>.
   </figcaption>
@@ -50,8 +50,9 @@ h1,h2 {
 }
 ```
 Pueden encontrarse listas y ejemplos de uso de las propiedades CSS en:
-- [CSS Reference - W3 Schools](https://www.w3schools.com/cssref/)
 - [CSS Reference - MDN](https://developer.mozilla.org/en-US/docs/Web/CSS/Reference)
+- [CSS Reference - W3 Schools](https://www.w3schools.com/cssref/)
+
 
 ### Cómo especificar reglas y propiedades CSS
 Un navegador web busca reglas y propiedades CSS en el siguiente orden de prioridad:
