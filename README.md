@@ -18,8 +18,7 @@ Las hojas de estilo se basan en **reglas CSS**, como la que se muestra en la fig
   <figcaption>
     <strong>Figura 1.</strong> Componentes de una regla CSS. Fuente: <a href="https://developer.mozilla.org/es/docs/Learn/Getting_started_with_the_web/CSS_basics">MDN Web Docs</a>.
   </figcaption>
-</figure>
-
+</figure>  
 
 Los componentes de una regla CSS son:  
 
