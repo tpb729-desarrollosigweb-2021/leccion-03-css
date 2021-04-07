@@ -52,4 +52,12 @@ Pueden encontrarse listas y ejemplos de uso de las propiedades CSS en:
 - [CSS Reference - W3 Schools](https://www.w3schools.com/cssref/)
 - [CSS Reference - MDN](https://developer.mozilla.org/en-US/docs/Web/CSS/Reference)
 
+### Cómo especificar reglas CSS
+Un navegador web busca propiedades CSS en el siguiente orden de prioridad:
 
+1. Elementos HTML (ej. ```body```, ```h1```, ```table```, ...).
+2. La sección ```head``` de un documento HTML.
+3. Archivos externos (.css).
+4. Su configuración por defecto.
+
+#### En elementos HTML
