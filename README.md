@@ -111,3 +111,8 @@ body {
     border:12px solid;
 }
 ```
+
+# Ejercicios
+1. Con base en la [tarea 01](https://tpb729-desarrollosigweb-2021.github.io/tarea-01-html/), construya un sitio web, con varias páginas, sobre los felinos de Costa Rica.
+a. Cree un archivo llamado *index.html* con información general sobre los felinos de Costa Rica (puede usar el de la tarea).
+b. Cree un archivo llamado *panhera-onca.html* con información sobre esa especie. Incluye, al menos, el título, un encabezado, un párrafo y una imagen (sugerencia: use contenido de Wikipedia).
