@@ -5,7 +5,7 @@ CSS permite manejar la presentación separadamente del contenido, lo que brinda 
 
 Al igual que HTML, CSS es un estándar de W3C. Fue propuesto por Håkon Wium Lie, quien trabajaba en CERN con Tim Berners-Lee, en 1994.
 
-# Ejemplos de aplicación de CSS
+# Ejemplos de uso de CSS
 - [CSS Zen Garden: The Beauty of CSS Design](http://www.csszengarden.com/)
 - [En CodePen: Intro Front-End Holy Trinity](https://codepen.io/mongeauc/pen/gPVoXd)
 
