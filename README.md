@@ -10,11 +10,11 @@ Al igual que HTML, CSS es un estándar de W3C. Fue propuesto por Håkon Wium Lie
 - [En CodePen: Intro Front-End Holy Trinity](https://codepen.io/mongeauc/pen/gPVoXd)
 
 # Sintaxis de CSS
-Las propiedades de estilo se especifican mediante construcciones de la forma:
+Las propiedades de estilo se especifican mediante construcciones de la forma que se muestra en la figura 1, las cuales se denominan **Selectores CSS**:
 
 <figure>
   <img src="img/sintaxiscss.png" alt="Selector CSS">
   <figcaption>
-    <small>Sintaxis de CSS. Fuente: wordpress.com</small>
+    <strong>Figura 1.</strong> Sintaxis de selectores CSS. Fuente: <a href="http://en-support.files.wordpress.com/2011/09/css-selectors-lrg.png">WordPress</a>.
   </figcaption>
 </figure>
