@@ -20,6 +20,7 @@ Las hojas de estilo se basan en **reglas CSS**, como la que se muestra en la fig
   </figcaption>
 </figure>
 
+
 Los componentes de una regla CSS son:  
 
 1. **El selector**: es el elemento, o elementos HTML, para los que aplica la regla.
