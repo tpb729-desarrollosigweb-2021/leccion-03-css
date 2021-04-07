@@ -33,7 +33,19 @@ Los siguientes son ejemplos de reglas CSS:
 ```css
 p {
     color:red;
-    font-size:200%;
+}
+
+body {
+    background-color:black;
+    color:white;
+    font-family:Arial;
+    margin:0 4px 0 0;
+    border:12px solid;
+}
+
+h1,h2 {
+    color:blue;
+    background-color:yellow;
 }
 ```
 
