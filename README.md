@@ -90,7 +90,7 @@ El elemento [style](https://developer.mozilla.org/es/docs/Web/HTML/Element/style
 En la sección ```head``` del archivo HTML que va a usar los estilos, debe incluirse un elemento de tipo [link](https://developer.mozilla.org/es/docs/Web/HTML/Element/link), como se ejemplifica seguidamente:
 
 ```html
-<link rel="stylesheet" href="estilos.css">
+<link rel="stylesheet" href="css/estilos.css">
 ```
 
 Ejemplo de contenido de ```css/estilos.css```:
