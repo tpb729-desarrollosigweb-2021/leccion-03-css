@@ -91,7 +91,7 @@ En la sección ```head``` del archivo HTML que va a usar los estilos, debe inclu
 <link rel="stylesheet" href="estilos.css">
 ```
 
-Ejemplo de contenido de ```estilos.css```:
+Ejemplo de contenido de ```css/estilos.css```:
 
 ```css
 p {
