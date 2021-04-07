@@ -52,12 +52,34 @@ Pueden encontrarse listas y ejemplos de uso de las propiedades CSS en:
 - [CSS Reference - W3 Schools](https://www.w3schools.com/cssref/)
 - [CSS Reference - MDN](https://developer.mozilla.org/en-US/docs/Web/CSS/Reference)
 
-### Cómo especificar reglas CSS
-Un navegador web busca propiedades CSS en el siguiente orden de prioridad:
+### Cómo especificar reglas y propiedades CSS
+Un navegador web busca reglas y propiedades CSS en el siguiente orden de prioridad:
 
-1. Elementos HTML (ej. ```body```, ```h1```, ```table```, ...).
-2. La sección ```head``` de un documento HTML.
-3. Archivos externos (.css).
-4. Su configuración por defecto.
+1. En elementos HTML individuales (ej. ```body```, ```h1```, ```table```, ...).
+2. En el elemento ```style```.
+3. En archivos CSS (.css).
+4. En su configuración por defecto.
 
-#### En elementos HTML
+#### En elementos HTML individuales
+Se hace a través del atributo global [style](https://developer.mozilla.org/es/docs/Web/HTML/Global_attributes/style), como en el siguiente ejemplo:
+
+```html
+<h1 style="color:blue;">Encabezado estilizado</h1>
+```
+
+Esta forma no separa el contenido del estilo por lo que, en general, no es recomendada.
+
+#### En el elemento ```style```
+
+El elemento [style](https://developer.mozilla.org/es/docs/Web/HTML/Element/style) se ubica, por lo general, dentro del elemento ```head```.
+
+```html
+<head>
+    <title>Ejemplo de CSS especificado en la sección head</title>
+    <style>
+        h1 {
+            color:blue;
+        }
+    </style>
+</head>
+```
