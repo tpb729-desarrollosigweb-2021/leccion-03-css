@@ -23,3 +23,8 @@ Las hojas de estilo se basan en **reglas CSS**, como la que se muestra en la fig
 Los componentes de una regla CSS son:
 
 1. **El selector**: es el elemento, o elementos HTML, para los que aplica la regla.
+2. **La propiedad**: es la característica del elemento HTML (ej. color, tamaño, tipo de letra) a la que se desea aplicar el estilo.
+3. **El valor de la propiedad:**: es el valor que se le asigna a la propiedad (ej. rojo, azul, etc. para el color).
+4. **La declaración**: es la combinación de propiedad y valor de la propiedad.
+
+Entre las llaves (```{}```) pueden especificarse varias declaraciones, las cuales deben separarse con punto y coma (```;```). Aún cuando haya solo una regla, se recomienda usar el punto y coma, por legibilidad.
