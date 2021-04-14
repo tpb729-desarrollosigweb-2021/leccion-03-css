@@ -57,10 +57,10 @@ Pueden encontrarse listas y ejemplos de uso de las propiedades CSS en:
 ### Cómo especificar reglas y propiedades CSS
 Un navegador web busca reglas y propiedades CSS en el siguiente orden de prioridad:
 
-1. En elementos HTML individuales (ej. ```body```, ```h1```, ```table```, ...).
-2. En el elemento ```style```.
-3. En archivos CSS (.css).
-4. En su configuración por defecto.
+1. En su configuración por defecto.
+2. En archivos CSS (.css).
+3. En el elemento ```style```.
+4. En elementos HTML individuales (ej. ```body```, ```h1```, ```table```, ...).
 
 #### En elementos HTML individuales
 Se hace a través del atributo global [style](https://developer.mozilla.org/es/docs/Web/HTML/Global_attributes/style), como en el siguiente ejemplo:
