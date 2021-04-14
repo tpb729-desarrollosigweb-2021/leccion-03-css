@@ -142,7 +142,7 @@ p {
 ### Selectores de clase
 Aplican para elementos HTML con un valor específico en el atributo ```class```. En la sintaxis de CSS, los selectores de clase se definen con un punto (.) seguido del nombre de la clase.
 
-**Código CSS**
+**Código CSS**  
 Se definen la clase "azul" y la clase "rojo".
 ```css
 .azul {
@@ -154,7 +154,7 @@ Se definen la clase "azul" y la clase "rojo".
 }
 ```
 
-Código HTML
+**Código HTML**  
 Se aplican las clases "azul" y "rojo" en varios elementos HTML.
 ```html
 <p class="rojo">
@@ -184,7 +184,7 @@ Aplican para el elemento que posea un valor específico en el atributo ```id```.
 }
 ```
 
-Código HTML
+**Código HTML**  
 Se aplican las clases "azul" y "rojo" en varios elementos HTML.
 ```html
 <p id="parrafo_rojo">
