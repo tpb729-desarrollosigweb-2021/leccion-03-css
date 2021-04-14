@@ -199,7 +199,7 @@ Se aplican las clases "arial" y "times" en varios elementos HTML.
 
 **Ejercicios**  
 2. Como continuación del ejercicio 1:  
-  a. Defina selectores de clase para letra en negrita y en itálica y aplíquelos en los textos.  
+  a. Defina selectores de clase para letra en negrita y en itálica y aplíquelos en los textos.
 
 3. Como continuación de los ejercicios anteriores:  
   a. Agregue al sitio de Felinos de Costa Rica una barra de navegación como la que se explica en [CSS Horizontal Navigation Bar - w3schools](https://www.w3schools.com/css/css_navbar_horizontal.asp).
