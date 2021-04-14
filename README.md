@@ -197,7 +197,7 @@ Se aplican las clases "arial" y "times" en varios elementos HTML.
 </p>
 ```
 
-**Ejercicios**  
+**Ejercicios**
 2. Como continuación del ejercicio 1:  
   a. Defina selectores de clase para letra en negrita y en itálica y aplíquelos en los textos.
 
