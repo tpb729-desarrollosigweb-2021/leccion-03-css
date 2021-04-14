@@ -173,29 +173,26 @@ Se aplican las clases "azul" y "rojo" en varios elementos HTML.
 ### Selectores de ID
 Aplican para el elemento que posea un valor específico en el atributo ```id```. Estos selectores se denotan por un signo de numeral (#) seguido por el id del elemento.
 
-**Código CSS**
+**Código CSS**  
+Se definen las clases "arial" y "times".
 ```css
-#parrafo_azul {
-    color:blue;
+#arial {
+    font-family: Arial;
 }
 
-#parrafo_rojo {
-    color:blue;
+#times {
+    font-family: Times;
 }
 ```
 
 **Código HTML**  
-Se aplican las clases "azul" y "rojo" en varios elementos HTML.
+Se aplican las clases "arial" y "times" en varios elementos HTML.
 ```html
-<p id="parrafo_rojo">
+<p id="arial">
     Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec at lacus nibh. Mauris volutpat malesuada ultrices.
 </p>
 
-<p id="parrafo_azul">
+<p id="times">
     Ut aliquet nulla a ornare laoreet. Cras sed eros faucibus, dignissim odio quis, dictum ante. Proin hendrerit lacinia lectus et condimentum.
-</p>
-
-<p id="parrafo_rojo">
-    Phasellus commodo velit quam, et gravida felis molestie et. Quisque luctus cursus euismod. Aenean semper pellentesque dolor.
 </p>
 ```
