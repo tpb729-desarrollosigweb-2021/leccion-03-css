@@ -150,7 +150,7 @@ Se definen la clase "azul" y la clase "rojo".
 }
 
 .rojo {
-    color:blue;
+    color:red;
 }
 ```
 
