@@ -113,10 +113,89 @@ body {
 }
 ```
 
-# Ejercicios
+**Ejercicios**
 1. Con base en la [tarea 01](https://tpb729-desarrollosigweb-2021.github.io/tarea-01-html/), construya un sitio web en [GitHub Pages](https://pages.github.com/) sobre especies de felinos de Costa Rica.  
 a. Cree un archivo llamado *index.html* con información general sobre los felinos de Costa Rica (puede usar el de la tarea).  
 b. Cree un archivo llamado *panhera-onca.html* con información sobre esa especie. Incluya, al menos, el título, un encabezado, un párrafo y una imagen (sugerencia: use contenido de Wikipedia).  
 c. Cree un archivo llamado *css/estilos.css* que, para ambos archivos, especifique mediante CSS, por lo menos: el tipo y tamaño de letra, el color de fondo y el color de los encabezados.  
 d. Cree un archivo llamado *puma-concolor.html* con información sobre esa especie. Incluya, al menos, el título, un encabezado, un párrafo y una imagen (sugerencia: use contenido de Wikipedia). Aplique aquí también los estilos de *css/estilos.css*.  
 e. En cada página, cree una barra de navegación que permita navegar a las otras dos páginas. Para esto utilice el elemento [nav](https://developer.mozilla.org/es/docs/Web/HTML/Element/nav).  
+
+## Categorías de selectores
+### Selectores de tipo
+Aplican para todos los elementos HTML de cierto tipo (ej. ```h1```, ```h2```, ```p```, ```table```).
+
+**Código CSS**
+```css
+p {
+    color:blue;
+}
+```
+
+**Código HTML**
+```html
+<p>
+    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi non consequat augue, vel condimentum velit
+</p>
+```
+
+### Selectores de clase
+Aplican para elementos HTML con un valor específico en el atributo ```class```. En la sintaxis de CSS, los selectores de clase se definen con un punto (.) seguido del nombre de la clase.
+
+**Código CSS**
+Se definen la clase "azul" y la clase "rojo".
+```css
+.azul {
+    color:blue;
+}
+
+.rojo {
+    color:blue;
+}
+```
+
+Código HTML
+Se aplican las clases "azul" y "rojo" en varios elementos HTML.
+```html
+<p class="rojo">
+    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec at lacus nibh. Mauris volutpat malesuada ultrices.
+</p>
+
+<p class="azul">
+    Ut aliquet nulla a ornare laoreet. Cras sed eros faucibus, dignissim odio quis, dictum ante. Proin hendrerit lacinia lectus et condimentum.
+</p>
+
+<p class="rojo">
+    Phasellus commodo velit quam, et gravida felis molestie et. Quisque luctus cursus euismod. Aenean semper pellentesque dolor.
+</p>
+```
+
+### Selectores de ID
+Aplican para el elemento que posea un valor específico en el atributo ```id```. Estos selectores se denotan por un signo de numeral (#) seguido por el id del elemento.
+
+**Código CSS**
+```css
+#parrafo_azul {
+    color:blue;
+}
+
+#parrafo_rojo {
+    color:blue;
+}
+```
+
+Código HTML
+Se aplican las clases "azul" y "rojo" en varios elementos HTML.
+```html
+<p id="parrafo_rojo">
+    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec at lacus nibh. Mauris volutpat malesuada ultrices.
+</p>
+
+<p id="parrafo_azul">
+    Ut aliquet nulla a ornare laoreet. Cras sed eros faucibus, dignissim odio quis, dictum ante. Proin hendrerit lacinia lectus et condimentum.
+</p>
+
+<p id="parrafo_rojo">
+    Phasellus commodo velit quam, et gravida felis molestie et. Quisque luctus cursus euismod. Aenean semper pellentesque dolor.
+</p>
+```
